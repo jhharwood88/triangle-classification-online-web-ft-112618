@@ -12,7 +12,7 @@ class Triangle
   def kind
    
   end
-  binding.pry
+  
  
   class TriangleError < StandardError
     
